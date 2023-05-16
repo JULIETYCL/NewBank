@@ -1,5 +1,5 @@
 # Bank System
-This project is a simple Java-based client-server bank system that allows users to manage their bank accounts.
+This project is a simple, Java-based, client-server banking system that allows users to manage their bank accounts. **_Please note that the code is still undergoing updates. There's an infinite loop error that needs to be fixed._**
 
 ## Table of Contents
 -[Project Structure](#project-structure)
